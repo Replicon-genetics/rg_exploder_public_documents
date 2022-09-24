@@ -5,7 +5,7 @@ Available in this repository:
 
 Documentation relevant to the application available at https://repliconevaluation.wordpress.com/ 
 
-Source code is in a, curently, private repoitory managed by the developers
+Source code is in a, currently, private repository managed by the developers
 
 24th September 2022
 
